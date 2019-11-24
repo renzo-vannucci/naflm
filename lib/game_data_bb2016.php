@@ -584,7 +584,7 @@ $DEA = array (
                  'doub'        => array ('G', 'S', 'P'),
                  'qty'            => 2,
                 'cost'            => 50000,
-                'icon'            => 'halfling1',
+                'icon'            => 'halfling_catcher',
                 'pos_id'        => 72,
             ),
             'Halfling Hefty'    => array (
@@ -597,7 +597,7 @@ $DEA = array (
                  'doub'        => array ('G', 'S'),
                  'qty'            => 2,
                 'cost'            => 50000,
-                'icon'            => 'halfling1',
+                'icon'            => 'hefty',
                 'pos_id'        => 73,
             ),		
         )
